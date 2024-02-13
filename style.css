@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat')
-h1.textstyle {
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+h1 {
     font-family: Montserrat
 }
